@@ -14,6 +14,7 @@
     echo "Bonjour " . $fname ." ". $lname ."<br>"; 
     echo "Votre courriel est : " . $email."<br>";
     echo "Vous avez : ". $age. " ans ";
+    echo "Merci pour votre patience";
     ?>
 </body>
 </html>
